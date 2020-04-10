@@ -19,6 +19,7 @@
   "homepage": "https://github.com/transon89/project-3#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "fs": "0.0.1-security",
     "if-env": "^1.0.4",
     "mongoose": "^5.9.7",
     "react-router-dom": "^5.1.2"
