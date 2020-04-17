@@ -28,6 +28,8 @@ Open up your MongoDB connection.
 Run the server by calling "npm start" from the root folder.
 
 
-
+## Created by: Son Tran
+GitHub Repo: https://github.com/transon89/project-3
+Deployed App: https://cryptic-stream-04661.herokuapp.com/
 
 
